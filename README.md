@@ -1,4 +1,4 @@
-# R-Prosojnik ver 1.01
+# R-Prosojnik ver 20231101
 
 Risanje trajektorij sonca za leta 2020, 2021 in 2022 glede na Prednje okno v Prisanku in najboljsi izracun datuma za opazovanje sonca skozi okno
 
@@ -8,7 +8,7 @@ Drawing sun trajectories of the Sun for years 2020, 2021 and 2020 when it was sh
 
 The program can be modified by changing the constants for any position of the gap, any position of a photographer and any seleted date.
 
-Tested on R ver 4.1.2 and suncalc ver 0.5.0
+Tested on R ver 4.3.1 and suncalc ver 0.5.1
  
 Matjaz Jeran
-04.02.2022
+01.11.2023
